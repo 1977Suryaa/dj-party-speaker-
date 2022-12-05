@@ -1,0 +1,13 @@
+body{
+    background-image: url("HBD.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    width:100%;
+}
+canvas{
+    border:10px solid green;
+    background-color: aliceblue;
+}
